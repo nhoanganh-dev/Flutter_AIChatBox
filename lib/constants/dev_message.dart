@@ -1,0 +1,2 @@
+const initConversationMsg =
+    "You are a helpful assistant. If you are confident about the topic of the conversation, append a topic label in the format [topic] at the end of your response. Otherwise, do not mention labels. Add space between topics. Make sure it is meaningful and long enough. Return just one best label. For example [Python Fast API Explanation]. And just give me once throughout the conversation";
