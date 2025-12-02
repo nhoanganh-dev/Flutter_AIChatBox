@@ -55,6 +55,10 @@ Khởi chạy chương trình bằng CLI tùy theo nền tảng:
 - **Chạy trên thiết bị mong muốn**:  
   `flutter run -d [device_id]`
 
+### Link video demo sản phẩm:
+
+[Video demo](https://drive.google.com/file/d/1gCAxW7wNXav7uW5NWd2p39GwLoxVtVeM/view?usp=sharing)
+
 ### Link video hướng dẫn chạy bằng thiết bị máy ảo Android tại link sau:
 
 [Video hướng dẫn](https://drive.google.com/file/d/1ChYiotUDB94IkwDegouH3TkRfA9aR68j/view?usp=sharing)
